@@ -2,7 +2,7 @@
 //  Movie.swift
 //  MoviesSearch
 //
-//  Created by osama on 1/28/19.
+//  Created by osama on 2/1/19.
 //  Copyright © 2019 osama. All rights reserved.
 //
 
